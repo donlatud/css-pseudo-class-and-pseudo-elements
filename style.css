@@ -1,1 +1,11 @@
-/* Start coding here */
+#email:disabled {
+  background-color: lightgray;
+}
+
+input:hover {
+  border: 1px solid khaki;
+}/* Start coding here */
+
+button:hover {
+  color: pink;
+}
